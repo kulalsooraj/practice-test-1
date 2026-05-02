@@ -18,7 +18,6 @@ jobs:
 
       - name: Test Code
         run: npm run test
-
       - name: Build Code
         run: npm run build
       - name: Deploy code
